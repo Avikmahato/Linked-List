@@ -64,7 +64,7 @@ void low(struct node *head)
 
         head = head->next;
     }
-    printf("The Max Element In The Linked List Is : %d\n\n", min);
+    printf("The Min Element In The Linked List Is : %d\n\n", min);
 }
 int main()
 {
