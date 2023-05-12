@@ -37,7 +37,7 @@ int main()
     tail->data = 81;
     tail->next = NULL;
 
-    display(head);
+    traversal(head);
 
     return 0;
 }
